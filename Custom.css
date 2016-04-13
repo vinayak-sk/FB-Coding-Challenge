@@ -1,0 +1,37 @@
+.calenderBackground{
+	background-color: #FFFFFF;
+	width: 620px;
+	height: 720px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.timings{
+	background-color: #FFFFFF;
+	height: 720px;
+}
+
+.events{
+	padding-left:0px !important;
+}
+
+.top-space{
+	height: 20px;
+}
+
+.time {
+	line-height:10px !important;
+	line-height:15px !important;
+	color: #5e5e5e;
+	font-size: 10px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	text-align: right;
+}
+
+.small, p {
+	line-height:14px !important;
+	color: #b9b9b9;
+	font-size: 10px;
+	font-weight: normal;
+}
